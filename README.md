@@ -1,4 +1,11 @@
 # SE2 - Thesis Managment
+
+## Home
+![Home](images/Home.png)
+
+## Thesis Details
+![Thesis Details](images/Thesis_Details.png)
+
 # Server side
 
 ## API Server
